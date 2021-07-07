@@ -1,6 +1,6 @@
 public class Penguin extends Bird {
-    public Penguin(int vitality) {
-        super(vitality);
+    public Penguin( int vitality ) {
+        super( vitality );
     }
 
     @Override

@@ -1,6 +1,6 @@
 public class CarDriver extends Human {
-    public CarDriver(int vitality) {
-        super(vitality);
+    public CarDriver( int vitality ) {
+        super( vitality );
     }
 
     @Override
